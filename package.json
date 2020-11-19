@@ -1,0 +1,23 @@
+{
+  "name": "cicd-aws-sampleapp",
+  "version": "1.0.0",
+  "description": "This repository contains code of a sample AWS Fargate application.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeshvendra/CICD-AWS-SampleApp.git"
+  },
+  "author": "yeshvendra kumar singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yeshvendra/CICD-AWS-SampleApp/issues"
+  },
+  "homepage": "https://github.com/Yeshvendra/CICD-AWS-SampleApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
